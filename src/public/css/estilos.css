@@ -1,0 +1,14 @@
+$bg-green: green;
+$bg-red: red;
+
+body {
+  background-color: $bg-green;
+  color: #fff;
+}
+
+.footer {
+  background-color: red;
+  color: #fff;
+}
+
+/*# sourceMappingURL=estilos.css.map*/
